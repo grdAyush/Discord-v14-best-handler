@@ -26,7 +26,7 @@
 
 - [x] Node.js v16+ **[Download](https://nodejs.org/en/download/)**
 - [x] Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
-- [x] MongoDB **[Download](https://www.mongodb.com/try/download/community)** (Download & install = Finish!)
+- [x] MongoDB **[Download](https://www.mongodb.com/try/download/community)** (Download & install = Finish!) [Toturial](https://youtu.be/BY5paXi4NF8)
 
 
 </p>
