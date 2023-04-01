@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yashoda Dev&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yashoda&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
 </p>
 
 <p align="center"> 
@@ -26,7 +26,6 @@
 
 - [x] Node.js v16+ **[Download](https://nodejs.org/en/download/)**
 - [x] Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
-- [My Application File](https://cdn.discordapp.com/attachments/1010784573061349496/1038914440734715994/application.yml)
 - [x] MongoDB **[Download](https://www.mongodb.com/try/download/community)** (Download & install = Finish!)
 
 
