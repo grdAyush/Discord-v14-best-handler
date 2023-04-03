@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/Ayushselfcoder/Discord-v14-best-handler#readme",
   "dependencies": {
+    "chalk": "^4.1.0",
     "chillout": "^5.0.0",
     "discord.js": "^14.8.0",
     "dotenv": "^16.0.3",
