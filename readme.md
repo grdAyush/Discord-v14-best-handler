@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yashoda&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=OG DEVCORDS&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
 </p>
 
 <p align="center"> 
-  <a href="https://discord.gg/P6DNKS96TE" target="_blank"> <img src="https://discordapp.com/api/guilds/975757167950962768/widget.png?style=banner2"/> </a> 
+  <a href="https://discord.gg/frXqPUrdFt" target="_blank"> <img src="https://discordapp.com/api/guilds/974995947379646534/widget.png?style=banner2"/> </a> 
 </p>
 
 
